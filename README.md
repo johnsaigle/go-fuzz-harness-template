@@ -1,6 +1,6 @@
 # Go Fuzz Harness Template
 
-A template to help with writing a harness for fuzzing using Go's built-in fuzz testing.
+A template to help with writing a harness for Go's built-in fuzz testing.
 
 ## Usage
 
